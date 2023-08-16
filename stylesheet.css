@@ -22,6 +22,13 @@ p.body{
   color: black;
 }
 
+p.season{
+  font-family: afronaut, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+
 a {
   text-decoration: none;
   font-family: afronaut, sans-serif;
@@ -33,9 +40,10 @@ a {
 body {
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: auto;
 }
 .container {
+
   background: linear-gradient(90deg, #d12828, #ffdaab, #ddffab, #abe4ff, #7e0ddc);
   background-size: 300% 300%;
   box-sizing: border-box;
