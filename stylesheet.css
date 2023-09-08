@@ -22,7 +22,29 @@ p.body{
   color: black;
 }
 
+p.bodymid{
+  font-family: afronaut, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+
+p.bodycopy{
+  font-family: "Lucida Console", monospace;
+  font-size: 18px;
+  text-align: center;
+  color: black;
+}
+
 p.season{
+  font-family: afronaut, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  text-decoration: underline;
+}
+
+p.tbd{
   font-family: afronaut, sans-serif;
   font-size: 20px;
   text-align: center;
