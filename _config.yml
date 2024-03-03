@@ -5,6 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+future: true
 
 # Layout
 
@@ -16,7 +17,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "pastshows.md"}
+  - {file: "upcoming.md"}
   - {file: "about.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

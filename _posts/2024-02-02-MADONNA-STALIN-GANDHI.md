@@ -1,4 +1,10 @@
+---
+status: past
+layout: page
+---
+
 ### MADONNA STALIN GANDHI
+
 Thomas Edward Rapai
 
 Kendall Martin Bab
