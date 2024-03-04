@@ -4,7 +4,7 @@ layout: page
 
 ---
 
-!["Remnants in the Meanwhile"](assets/images/RemnantsPoster.jpg)
+!["Remnants in the Meanwhile"](assets/images/RemnantsPoster.jpeg)
 
 
 
