@@ -4,9 +4,6 @@ layout: page
 
 ---
 
-<center>
-
-  <img src="{{site.baseurl}}/assets/images/BoundaryConditions.jpeg" width=60%>
-</center>
+<center> <img src="{{site.baseurl}}/assets/images/BoundaryConditions.jpeg" width="60%"> </center>
 
 
