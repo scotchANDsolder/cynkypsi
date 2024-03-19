@@ -4,6 +4,8 @@ layout: page
 
 ---
 
-!["Boundary Conditions"](assets/images/BoundaryConditions.jpeg)
+<img src="{{site.baseurl}}/assets/images/BoundaryConditions.jpeg">
+
+
 
 
