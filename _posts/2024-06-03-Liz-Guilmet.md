@@ -1,9 +1,10 @@
 ---
-status: future
+status: current
 layout: page
 
 ---
 
 ### Liz Guilmet
 
-More to come!
+<center> <img src="{{site.baseurl}}/assets/images/omen.png" width="80%"> </center>
+
