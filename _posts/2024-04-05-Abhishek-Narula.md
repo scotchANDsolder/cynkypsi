@@ -1,5 +1,5 @@
 ---
-status: current
+status: past
 layout: page
 
 ---
