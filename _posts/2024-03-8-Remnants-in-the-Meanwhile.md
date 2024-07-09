@@ -4,9 +4,5 @@ layout: page
 
 ---
 
-!["Remnants in the Meanwhile"](assets/images/RemnantsPoster.jpeg)
-
-
-
-
+<center> <img src="{{site.baseurl}}/assets/images/RemnantsPoster.jpeg" width="80%"> </center>
 
