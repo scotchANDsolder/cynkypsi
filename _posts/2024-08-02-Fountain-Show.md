@@ -1,11 +1,9 @@
 ---
-status: future
+status: current
 layout: page
 
 ---
 
-## Fountain Show
+### Fountain Show
 
-Exhibition featuring artists Abhishek Narula, Sally Clegg, Erin McKenna & Kim Karlsrud
-
-Opening: Friday August 2nd, 2024 at 5pm
+<center> <img src="{{site.baseurl}}/assets/images/FountainShow.jpeg" width="80%"> </center>
