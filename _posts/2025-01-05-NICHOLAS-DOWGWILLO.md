@@ -5,6 +5,6 @@ status: current
 layout: page
 ---
 
-### NICHOLAS DOWGWILLO
+### Nicholas Dowgwillo
 
 ![Dowgwillo.png](/uploads/Dowgwillo.png)
