@@ -1,7 +1,8 @@
 ---
+title: Nathan Byrne
+date: 2024-09-06 00:00:00 Z
 status: past
 layout: page
-
 ---
 
 <center> <img src="{{site.baseurl}}/assets/images/TheRobber.jpg" width="80%"> </center>

@@ -1,7 +1,6 @@
 ---
+title: Current Show
 layout: default
-title: "Current Show"
 ---
-
 
 {% include current.html %}

@@ -1,7 +1,8 @@
 ---
+title: Mark Nielsen
+date: 2024-12-06 00:00:00 Z
 status: past
 layout: page
-
 ---
 
 ### Mark Nielsen

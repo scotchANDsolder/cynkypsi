@@ -1,34 +1,39 @@
-title: "CYNK Studios"
-author: "CYNK Studios"
-description: "CYNK Studios is an experimental art space in Ypsilanti, MI"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
+---
+title: CYNK Studios
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+author: CYNK Studios
+description: CYNK Studios is an experimental art space in Ypsilanti, MI
+permalink: "/:title/"
+lang: en
+excerpt_separator: |2+
+
+
+
 date_format: "%B %d, %Y"
 future: true
-
-# Layout
-
-show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md"}
-  - {file: "pastshows.md"}
-  - {file: "upcoming.md"}
-  - {file: "about.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:hi@cynkypsi.com"}
-  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/cynkypsi"}
-  
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
+show_excerpts: false
+show_frame: true
+show_sidebar: false
+minimal: false
+navigation:
+- file: index.md
+- file: pastshows.md
+- file: upcoming.md
+- file: about.md
+external:
+- title: Mail
+  icon: envelope
+  url: mailto:hi@cynkypsi.com
+- title: Instagram
+  icon: instagram
+  url: https://www.instagram.com/cynkypsi
+comments: 
 plugins:
- - jekyll-feed
+- jekyll-feed

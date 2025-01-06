@@ -1,7 +1,8 @@
 ---
+title: Casey Brooks
+date: 2024-11-01 00:00:00 Z
 status: past
 layout: page
-
 ---
 
 ### Casey Brooks

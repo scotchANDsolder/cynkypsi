@@ -1,5 +1,5 @@
 ---
-title: "Upcoming"
+title: Upcoming
 permalink: "/upcoming/"
 layout: page
 ---
