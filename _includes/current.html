@@ -1,0 +1,14 @@
+<article>
+  <header></header>
+  <ul class="archive">
+    {% for post in site.posts %}
+    {% if post.status contains "current" %}
+   
+    {{ post.content }}
+
+
+    {% endif %}
+    {% endfor %}
+  </ul>
+</article>
+
