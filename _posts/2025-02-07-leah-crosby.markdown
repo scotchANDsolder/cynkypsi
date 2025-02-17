@@ -1,7 +1,7 @@
 ---
 title: Leah Crosby
 date: 2025-02-07 16:07:00 Z
-status: future
+status: current
 ---
 
 ![CYNKPoster.png](/uploads/CYNKPoster.png)
