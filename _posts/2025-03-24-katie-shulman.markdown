@@ -6,7 +6,7 @@ status: current
 
 ![KatieSoloShowCYNK.png](/uploads/KatieSoloShowCYNK.png)
 
-Katie Shulman on **Ropes Of**, April 4-18 
+Katie Shulman on **Ropes Of**, April 4-18: 
 
 **Desire, hunger and their bodily expressions have embarrassed me everywhere but inside my studio. While I avoided embodied unruliness in my day to day life, I have been possessed by the need to manipulate material into manifesting something so human it could be sensed or felt by an onlooker. 
 
