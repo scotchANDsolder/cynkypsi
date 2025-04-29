@@ -1,7 +1,7 @@
 ---
 title: Katie Shulman
 date: 2025-03-24 16:21:00 Z
-status: current
+status: past
 ---
 
 ![KatieSoloShowCYNK.png](/uploads/KatieSoloShowCYNK.png)
