@@ -6,6 +6,7 @@ layout: page
 ---
 
 ### Mark Nielsen
+[Exhibition Statement]({{site.baseurl}}/assets/FLOEMarkNielsen.pdf)
 
 <center> <img src="{{site.baseurl}}/assets/images/Floe.jpg" width="80%"> </center>
 
