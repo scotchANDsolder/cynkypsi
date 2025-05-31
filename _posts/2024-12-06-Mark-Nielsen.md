@@ -7,6 +7,7 @@ layout: page
 
 ### Mark Nielsen
 [Exhibition Statement]({{site.baseurl}}/assets/FLOEMarkNielsen.pdf)
+[Video Documentation](https://www.youtube.com/watch?v=C_qYmMwgOlE)
 
 <center> <img src="{{site.baseurl}}/assets/images/Floe.jpg" width="80%"> </center>
 
