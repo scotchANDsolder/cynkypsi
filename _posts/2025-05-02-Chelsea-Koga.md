@@ -1,7 +1,7 @@
 ---
 title: Chelsea Koga
 date: 2025-05-02 00:00:00 Z
-status: current
+status: past
 layout: page
 ---
 
